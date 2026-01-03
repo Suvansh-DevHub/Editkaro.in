@@ -1,7 +1,7 @@
 # Editkaro.in - Portfolio Website
 
 ## 📌 Project Description
-**Editkaro.in is a responsive and visually appealing portfolio website designed to showcase video editing projects.  
+Editkaro.in is a responsive and visually appealing portfolio website designed to showcase video editing projects.  
 The website features a clean, modern design with interactive filtering options, allowing visitors to easily explore different categories of video work.  
 It is aimed at **video editors, production studios, and creative professionals** who want to present their work in an engaging way.
 
