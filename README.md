@@ -54,6 +54,6 @@ No server setup is required (static website).
 📜 License
 This project is licensed under the MIT License - feel free to modify and use it.
 
-👨‍💻 Author
-Editkaro.in Team
-A creative team specializing in video editing and media production.
+## 👨‍💻 Author
+Developed with ❤️ by **Suvansh**  
+🔗 [GitHub](https://github.com/Suvansh-DevHub) · [LinkedIn](https://www.linkedin.com/in/suvansh36/) · [Twitter](https://x.com/Suvansh31)
