@@ -1,7 +1,7 @@
 # Editkaro.in - Portfolio Website
 
 ## 📌 Project Description
-**Editkaro.in - Portfolio Assignment 3 VOC** is a responsive and visually appealing portfolio website designed to showcase video editing projects.  
+**Editkaro.in is a responsive and visually appealing portfolio website designed to showcase video editing projects.  
 The website features a clean, modern design with interactive filtering options, allowing visitors to easily explore different categories of video work.  
 It is aimed at **video editors, production studios, and creative professionals** who want to present their work in an engaging way.
 
@@ -30,21 +30,16 @@ This project includes:
 ---
 
 ## 📂 Project Structure
-📁 Editkaro.in-Portfolio Assignment 3 VOC
+📁 Editkaro.in
 ├── index.html # Main HTML page
 ├── styles.css # Stylesheet
 ├── script.js # JavaScript functionality
-├── package.json # Project metadata
-└── Videos/ # Sample portfolio videos
 
-yaml
-Copy
-Edit
 
 ---
 
-## 📸 Preview
-*(Include a screenshot of your homepage here)*
+## Deployment Link
+[Editkaro.in](https://editkaroinlive.netlify.app/)
 
 ---
 
